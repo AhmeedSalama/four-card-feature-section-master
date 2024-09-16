@@ -101,15 +101,11 @@ border-color: var(--CyanColor);
 /*small*/
 
 @media (min-width:576px) {
-  .container{
-    width: 717px;
-  }
+
 }
 
 @media (min-width:768px) {
-  .container{
-    width: 720px;
-  }
+
   .cards{
     display: grid;
     grid-template-columns: repeat(2,300px);
@@ -119,15 +115,11 @@ border-color: var(--CyanColor);
 }
 
 @media (min-width:992px) {
-  .container{
-    width: 960px;
-  }
+
 }
 
 @media (min-width:1200px) {
-  .container{
-    width: 1180px;
-  }
+
   .cards{
     display: flex;
     flex-direction: row;
@@ -141,9 +133,7 @@ border-color: var(--CyanColor);
 }
 
 @media (min-width:1440px) {
-  .container{
-    width: 1520px;
-  }
+
   .cards{
     display: flex;
     flex-direction: row;
