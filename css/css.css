@@ -126,7 +126,7 @@ border-color: var(--CyanColor);
 
 @media (min-width:1200px) {
   .container{
-    width: 1265px;
+    width: 1180px;
   }
   .cards{
     display: flex;
